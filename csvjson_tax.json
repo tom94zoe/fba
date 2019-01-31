@@ -1,0 +1,191 @@
+[
+  {
+    "Country": "Schweden",
+    "Code": "SWE",
+    "15vol": "5.24",
+    "32vol": "11.19",
+    "38vol": "13.29"
+  },
+  {
+    "Country": "Finnland",
+    "Code": "FIN",
+    "15vol": "5.02",
+    "32vol": "10.72",
+    "38vol": "12.73"
+  },
+  {
+    "Country": "Gro�britanien",
+    "Code": "GBR",
+    "15vol": "4.47",
+    "32vol": "9.54",
+    "38vol": "11.32"
+  },
+  {
+    "Country": "Belgien",
+    "Code": "BEL",
+    "15vol": "3.44",
+    "32vol": "7.34",
+    "38vol": "8.71"
+  },
+  {
+    "Country": "Griechenland",
+    "Code": "GRC",
+    "15vol": "3.14",
+    "32vol": "6.7",
+    "38vol": "7.96"
+  },
+  {
+    "Country": "Estland",
+    "Code": "EST",
+    "15vol": "2.68",
+    "32vol": "5.71",
+    "38vol": "6.78"
+  },
+  {
+    "Country": "D�nemark",
+    "Code": "DNK",
+    "15vol": "2.63",
+    "32vol": "5.62",
+    "38vol": "6.67"
+  },
+  {
+    "Country": "Frankreich",
+    "Code": "Frau",
+    "15vol": "2.11",
+    "32vol": "4.51",
+    "38vol": "5.36"
+  },
+  {
+    "Country": "Niederlande",
+    "Code": "NLD",
+    "15vol": "1.77",
+    "32vol": "3.78",
+    "38vol": "4.48"
+  },
+  {
+    "Country": "Litauen",
+    "Code": "LTU",
+    "15vol": "1.75",
+    "32vol": "3.73",
+    "38vol": "4.43"
+  },
+  {
+    "Country": "Lettland",
+    "Code": "LVA",
+    "15vol": "1.75",
+    "32vol": "3.74",
+    "38vol": "4.44"
+  },
+  {
+    "Country": "Malta",
+    "Code": "MLT",
+    "15vol": "1.47",
+    "32vol": "3.14",
+    "38vol": "3.72"
+  },
+  {
+    "Country": "Portugal",
+    "Code": "PRT",
+    "15vol": "1.46",
+    "32vol": "3.11",
+    "38vol": "3.69"
+  },
+  {
+    "Country": "Polen",
+    "Code": "POL",
+    "15vol": "1.4",
+    "32vol": "2.98",
+    "38vol": "3.54"
+  },
+  {
+    "Country": "Slowenien",
+    "Code": "SVN",
+    "15vol": "1.39",
+    "32vol": "2.96",
+    "38vol": "3.51"
+  },
+  {
+    "Country": "Deutschland",
+    "Code": "DEU",
+    "15vol": "1.37",
+    "32vol": "2.92",
+    "38vol": "3.47"
+  },
+  {
+    "Country": "�sterreich",
+    "Code": "AUT",
+    "15vol": "1.26",
+    "32vol": "2.69",
+    "38vol": "3.19"
+  },
+  {
+    "Country": "Tschechien",
+    "Code": "CZE",
+    "15vol": "1.17",
+    "32vol": "2.49",
+    "38vol": "2.96"
+  },
+  {
+    "Country": "Slowakei",
+    "Code": "SVK",
+    "15vol": "1.13",
+    "32vol": "2.42",
+    "38vol": "2.87"
+  },
+  {
+    "Country": "Ungarn",
+    "Code": "HUN",
+    "15vol": "1.1",
+    "32vol": "2.36",
+    "38vol": "2.8"
+  },
+  {
+    "Country": "Luxemburg",
+    "Code": "LUX",
+    "15vol": "1.09",
+    "32vol": "2.33",
+    "38vol": "2.77"
+  },
+  {
+    "Country": "Italien",
+    "Code": "ITA",
+    "15vol": "1.09",
+    "32vol": "2.32",
+    "38vol": "2.76"
+  },
+  {
+    "Country": "Spanien",
+    "Code": "ESP",
+    "15vol": "1.01",
+    "32vol": "2.15",
+    "38vol": "2.55"
+  },
+  {
+    "Country": "Zypern",
+    "Code": "CYP",
+    "15vol": 1.
+    "32vol": "2.14",
+    "38vol": "2.55"
+  },
+  {
+    "Country": "Rum�nien",
+    "Code": "ROU",
+    "15vol": "0.75",
+    "32vol": "1.6",
+    "38vol": "1.9"
+  },
+  {
+    "Country": "Kroatien",
+    "Code": "HRV",
+    "15vol": "0.75",
+    "32vol": "1.61",
+    "38vol": "1.91"
+  },
+  {
+    "Country": "Bulgarien",
+    "Code": "BGR",
+    "15vol": "0.59",
+    "32vol": "1.26",
+    "38vol": "1.49"
+  }
+]
